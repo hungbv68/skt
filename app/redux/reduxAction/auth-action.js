@@ -1,0 +1,7 @@
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const AFTER_LOGIN_ERROR = 'AFTER_LOGIN_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const BEGIN_LOGIN = 'BEGIN_LOGIN';
+export const LOG_OUT = 'LOG_OUT';
+export const REFRESH_ACCESS_TOKEN = 'REFRESH_ACCESS_TOKEN';
+export const KEY_API_CONNECT = 'KEY_API_CONNECT';
